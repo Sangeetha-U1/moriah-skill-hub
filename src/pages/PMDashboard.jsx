@@ -185,7 +185,7 @@ function PMDashboard() {
                 </div>
 
                 <div>
-                  <strong>Sai Reddy</strong>
+                  <strong>sagar</strong>
                   <p>Completed Dashboard UI</p>
                   <small>10 minutes ago</small>
                 </div>
@@ -200,7 +200,7 @@ function PMDashboard() {
                 </div>
 
                 <div>
-                  <strong>Sangeetha</strong>
+                  <strong>ramu</strong>
                   <p>Updated Login Screen</p>
                   <small>30 minutes ago</small>
                 </div>
@@ -215,7 +215,7 @@ function PMDashboard() {
                 </div>
 
                 <div>
-                  <strong>Praveen</strong>
+                  <strong>rahul</strong>
                   <p>Created new task</p>
                   <small>1 hour ago</small>
                 </div>
@@ -230,7 +230,7 @@ function PMDashboard() {
                 </div>
 
                 <div>
-                  <strong>Dheeraj</strong>
+                  <strong>raj</strong>
                   <p>Resolved API integration issue</p>
                   <small>2 hours ago</small>
                 </div>
